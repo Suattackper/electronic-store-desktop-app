@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Quanlydocongnghe\\SaleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\dao\\ketnoisql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:dao\\ketnoisql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\view\\dashboard01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:view\\dashboard01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|D:\\c#\\Quanlydocongnghe\\SaleApp\\view\\dashboard01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:view\\dashboard01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\view\\nhapsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:view\\nhapsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|D:\\c#\\Quanlydocongnghe\\SaleApp\\view\\nhapsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:view\\nhapsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\business\\sanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:business\\sanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|D:\\c#\\Quanlydocongnghe\\SaleApp\\view\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:view\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|D:\\c#\\Quanlydocongnghe\\SaleApp\\view\\dashboard02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:view\\dashboard02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\dao\\donmuadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:dao\\donmuadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\business\\donmuabus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:business\\donmuabus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\business\\phieuxuatkhobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:business\\phieuxuatkhobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\dao\\phieunhapkhodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:dao\\phieunhapkhodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\dao\\chitietdonmuadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:dao\\chitietdonmuadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\dao\\nhacungcapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:dao\\nhacungcapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\view\\dashboard02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:view\\dashboard02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\view\\chitietdon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:view\\chitietdon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|d:\\c#\\quanlydocongnghe\\saleapp\\business\\nhacungcapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:business\\nhacungcapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|D:\\c#\\Quanlydocongnghe\\SaleApp\\view\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B969E512-1B3A-4420-BEC1-5F380131DD8E}|SaleApp.csproj|solutionrelative:view\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KetNoiSql.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\DAO\\KetNoiSql.cs",
+              "RelativeDocumentMoniker": "DAO\\KetNoiSql.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\DAO\\KetNoiSql.cs",
+              "RelativeToolTip": "DAO\\KetNoiSql.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAMwEQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:42:11.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhieuNhapKhoDAO.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\DAO\\PhieuNhapKhoDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\PhieuNhapKhoDAO.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\DAO\\PhieuNhapKhoDAO.cs",
+              "RelativeToolTip": "DAO\\PhieuNhapKhoDAO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:30:59.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhieuXuatKhoBUS.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\Business\\PhieuXuatKhoBUS.cs",
+              "RelativeDocumentMoniker": "Business\\PhieuXuatKhoBUS.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\Business\\PhieuXuatKhoBUS.cs",
+              "RelativeToolTip": "Business\\PhieuXuatKhoBUS.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:29:10.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhapSP.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\NhapSP.cs",
+              "RelativeDocumentMoniker": "View\\NhapSP.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\NhapSP.cs",
+              "RelativeToolTip": "View\\NhapSP.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwHEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T16:11:48.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:52:30.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard01.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\Dashboard01.cs",
+              "RelativeDocumentMoniker": "View\\Dashboard01.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\Dashboard01.cs [Design]",
+              "RelativeToolTip": "View\\Dashboard01.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T07:03:41.277Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard01.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\Dashboard01.cs",
+              "RelativeDocumentMoniker": "View\\Dashboard01.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\Dashboard01.cs",
+              "RelativeToolTip": "View\\Dashboard01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T07:03:43.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KhachHangDAO.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\DAO\\KhachHangDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\KhachHangDAO.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\DAO\\KhachHangDAO.cs",
+              "RelativeToolTip": "DAO\\KhachHangDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:32:23.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DonMuaBUS.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\Business\\DonMuaBUS.cs",
+              "RelativeDocumentMoniker": "Business\\DonMuaBUS.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\Business\\DonMuaBUS.cs",
+              "RelativeToolTip": "Business\\DonMuaBUS.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:09:08.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DonMuaDAO.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\DAO\\DonMuaDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\DonMuaDAO.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\DAO\\DonMuaDAO.cs",
+              "RelativeToolTip": "DAO\\DonMuaDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:09:38.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard02.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\Dashboard02.cs",
+              "RelativeDocumentMoniker": "View\\Dashboard02.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\Dashboard02.cs [Design]",
+              "RelativeToolTip": "View\\Dashboard02.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:09:15.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DonHang.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\DonHang.cs",
+              "RelativeDocumentMoniker": "View\\DonHang.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\DonHang.cs [Design]",
+              "RelativeToolTip": "View\\DonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:09:15.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NhaCungCapDAO.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\DAO\\NhaCungCapDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\NhaCungCapDAO.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\DAO\\NhaCungCapDAO.cs",
+              "RelativeToolTip": "DAO\\NhaCungCapDAO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T09:39:52.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NhaCungCapBUS.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\Business\\NhaCungCapBUS.cs",
+              "RelativeDocumentMoniker": "Business\\NhaCungCapBUS.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\Business\\NhaCungCapBUS.cs",
+              "RelativeToolTip": "Business\\NhaCungCapBUS.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAASwB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T12:20:35.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanPhamBUS.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\Business\\SanPhamBUS.cs",
+              "RelativeDocumentMoniker": "Business\\SanPhamBUS.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\Business\\SanPhamBUS.cs",
+              "RelativeToolTip": "Business\\SanPhamBUS.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T12:26:01.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChiTietDonMuaDAO.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\DAO\\ChiTietDonMuaDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ChiTietDonMuaDAO.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\DAO\\ChiTietDonMuaDAO.cs",
+              "RelativeToolTip": "DAO\\ChiTietDonMuaDAO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:01:49.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dashboard02.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\Dashboard02.cs",
+              "RelativeDocumentMoniker": "View\\Dashboard02.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\Dashboard02.cs",
+              "RelativeToolTip": "View\\Dashboard02.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T07:01:55.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChiTietDon.cs",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\ChiTietDon.cs",
+              "RelativeDocumentMoniker": "View\\ChiTietDon.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\ChiTietDon.cs",
+              "RelativeToolTip": "View\\ChiTietDon.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:24:33.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhapSP.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\NhapSP.cs",
+              "RelativeDocumentMoniker": "View\\NhapSP.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\NhapSP.cs [Design]",
+              "RelativeToolTip": "View\\NhapSP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T16:11:42.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NhaCungCap.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "View\\NhaCungCap.cs",
+              "ToolTip": "D:\\c#\\Quanlydocongnghe\\SaleApp\\View\\NhaCungCap.cs [Design]",
+              "RelativeToolTip": "View\\NhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-24T03:08:37.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

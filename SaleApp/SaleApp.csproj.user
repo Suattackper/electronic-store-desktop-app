@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Model\ModelSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\ChiTietDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Dashboard01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Dashboard02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\DonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\KhoHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\HangTon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhapSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Signin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\XuatHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\XuatKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
